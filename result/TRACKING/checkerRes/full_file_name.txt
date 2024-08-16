@@ -1,5 +1,0 @@
-FLAD_curve-linear-eff-0.00-tracking.csv
-FLAD_curve-linear-eff-0.25-tracking.csv
-FLAD_curve-linear-eff-0.50-tracking.csv
-FLAD_curve-linear-eff-0.75-tracking.csv
-FLAD_curve-linear-eff-1.00-tracking.csv

@@ -1,6 +1,0 @@
-FLAD_curve-linear-mig-0.000-2deme
-FLAD_curve-linear-mig-0.020-2deme
-FLAD_curve-linear-mig-0.040-2deme
-FLAD_curve-linear-mig-0.060-2deme
-FLAD_curve-linear-mig-0.080-2deme
-FLAD_curve-linear-mig-0.100-2deme
